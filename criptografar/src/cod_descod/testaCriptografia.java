@@ -5,7 +5,7 @@ public class testaCriptografia {
 	public static void main(String[] args) {
 		crypter crypter = new crypter();
 		
-		String a = "lll";
+		String a = "joao";
 		
 		System.out.println(crypter.criptografa(a));
 		
